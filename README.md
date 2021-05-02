@@ -2,8 +2,14 @@
 
 
 • Developed a chat room using DB connection and socket server
+
+
 • Implemented individual monsters using GUI, graphics, objects, etc.
+
+
 • Created Stat change and function using the shop page
+
+
 • Implemented score comparison function, for comparing scoring with the other player in ranking page
 
     
