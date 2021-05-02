@@ -1,6 +1,11 @@
 # DefenseGame
 
 
+• Developed a chat room using DB connection and socket server
+• Implemented individual monsters using GUI, graphics, objects, etc.
+• Created Stat change and function using the shop page
+• Implemented score comparison function, for comparing scoring with the other player in ranking page
+
     
 <div>
 <img width="300" src="https://user-images.githubusercontent.com/67784971/103776131-02f71700-4ffd-11eb-8719-d940cc1f9db9.png" alt="">
